@@ -14,6 +14,7 @@ namespace az_webapp_mcastelan_vs.Pages
 
         public void OnGet()
         {
+            throw new Exception("This is an exception for insights");
         }
     }
 
